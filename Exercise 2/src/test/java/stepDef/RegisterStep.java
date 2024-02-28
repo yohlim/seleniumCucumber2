@@ -127,7 +127,7 @@ public class RegisterStep extends env_target {
 
     @And("user input password confirmation username has been registered")
     public void userInputPasswordConfirmationUsernameHasBeenRegistered() {
-        driver.findElement(By.id("repeatedPassword")).sendKeys("0000");
+        driver.findElement(By.id("repeatedPassword")).sendKeys("0000"); //makesure username has been registered
     }
 
     @Then("user get message This username already exists")
