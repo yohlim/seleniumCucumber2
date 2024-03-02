@@ -92,7 +92,7 @@
     <orderEntry type="library" name="Maven: xerces:xercesImpl:2.11.0" level="project" />
     <orderEntry type="library" name="Maven: xml-apis:xml-apis:1.4.01" level="project" />
     <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.15" level="project" />
-    <orderEntry type="library" name="Maven: io.cucumber:cucumber-java:7.11.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: io.cucumber:cucumber-java:7.15.0" level="project" />
     <orderEntry type="library" name="Maven: io.cucumber:cucumber-core:7.11.1" level="project" />
     <orderEntry type="library" name="Maven: io.cucumber:cucumber-gherkin:7.11.1" level="project" />
     <orderEntry type="library" name="Maven: io.cucumber:cucumber-gherkin-messages:7.11.1" level="project" />
